@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Machine Learning Engineer Roadmap, November 2026 to November 2028" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2NDUzMjAxZi00Zjc2LTQ2MTYtOGQ1Yy02ZWI2ZWExM2ViYTQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAPZYQL4EYBp40+iUdilLj5OyV1ncon38K1sQm2hGHXP8pnME0CJMhXf2E/Zjlr/kdg+2V5XbP2VqiZbVVZBF9Na1Uss=</c2pa:manifest></metadata>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Machine Learning Engineer Roadmap, November 2026 to November 2028" xmlns:c2pa="http://c2pa.org/manifest"><metadata>1Uss=</c2pa:manifest></metadata>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0f172a"/>
